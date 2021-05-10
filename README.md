@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abi8642
-- 👀 I’m interested in Technology
+- 👋 Hi, I’m Abinash Sahu
+- 👀 I’m interested in Science and Technology
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
